@@ -1,0 +1,7 @@
+| Technique            | Purpose                     |
+| -------------------- | --------------------------- |
+| Zero-Shot Prompting  | Baseline evaluation         |
+| Few-Shot Prompting   | Guided behavior improvement |
+| Chain-of-Thought     | Enhanced reasoning          |
+| Role Prompting       | Specialized model behavior  |
+| Constraint Prompting | Instruction precision       |
