@@ -1,0 +1,34 @@
+Prompt Engineering Lab
+
+A research-focused repository dedicated to exploring prompt engineering techniques and evaluating LLM behavior under different prompting strategies.
+
+
+Overview
+
+This project investigates how prompt structure influences AI outputs across multiple dimensions including:
+
+- Reasoning quality
+- Instruction adherence
+- Response consistency
+- Output formatting
+- Safety and ambiguity handling
+
+Objectives
+
+- Test prompt reliability
+- Compare prompting strategies
+- Analyze model consistency
+- Improve instruction-following performance
+- Study prompt sensitivity
+
+
+Repository Structure
+
+```bash
+prompt-engineering-lab/
+│
+├── prompts/
+├── experiments/
+├── benchmarks/
+├── results/
+└── documentation/
